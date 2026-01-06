@@ -3,6 +3,7 @@
         "id": "Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096",
         "fileName": "Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096.task",
         "downloadUrl": "https://huggingface.co/litert-community/Qwen2.5-1.5B-Instruct/resolve/main/Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "approximateSize": "1.5 GB",
         "expectedMinBytes": 1000000000,
         "config": {
             "type": "qwen",
@@ -20,6 +21,7 @@
         "id": "DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096",
         "fileName": "DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096.task",
         "downloadUrl": "https://huggingface.co/litert-community/DeepSeek-R1-Distill-Qwen-1.5B/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "approximateSize": "1.9 GB",
         "expectedMinBytes": 1000000000,
         "config": {
             "type": "deepSeek",
