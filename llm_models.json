@@ -44,14 +44,15 @@
         "config": {
             "type": "qwen",
             "maxTokens": 1280,
-            "tokenBuffer": 1280,
+            "tokenBuffer": 1000,
             "randomSeed": 1,
             "temperature": 0.8,
             "topK": 1,
             "topP": null,
             "isThinking": false,
-            "supportsFunctionCalls": true
+            "supportsFunctionCalls": false
         }
     }
 ]
+
 
