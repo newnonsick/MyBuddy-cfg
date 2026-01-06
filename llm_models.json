@@ -1,0 +1,36 @@
+[
+    {
+        "id": "Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096",
+        "fileName": "Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096.task",
+        "downloadUrl": "https://huggingface.co/litert-community/Qwen2.5-1.5B-Instruct/resolve/main/Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "expectedMinBytes": 1000000000,
+        "config": {
+            "type": "qwen",
+            "maxTokens": 4096,
+            "tokenBuffer": 3584,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true
+        }
+    },
+    {
+        "id": "DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096",
+        "fileName": "DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096.task",
+        "downloadUrl": "https://huggingface.co/litert-community/DeepSeek-R1-Distill-Qwen-1.5B/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "expectedMinBytes": 1000000000,
+        "config": {
+            "type": "deepSeek",
+            "maxTokens": 4096,
+            "tokenBuffer": 3584,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true
+        }
+    }
+]
