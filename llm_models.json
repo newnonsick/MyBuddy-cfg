@@ -24,7 +24,7 @@
         "approximateSize": "1.9 GB",
         "expectedMinBytes": 1000000000,
         "config": {
-            "type": "deepSeek",
+            "type": "deepseek",
             "maxTokens": 4096,
             "tokenBuffer": 3584,
             "randomSeed": 1,
@@ -34,5 +34,24 @@
             "isThinking": false,
             "supportsFunctionCalls": true
         }
+    },
+    {
+        "id": "Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280",
+        "fileName": "Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280.task",
+        "downloadUrl": "https://huggingface.co/litert-community/Qwen2.5-0.5B-Instruct/resolve/main/Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280.task?download=true",
+        "approximateSize": "0.5 GB",
+        "expectedMinBytes": 500000000,
+        "config": {
+            "type": "qwen",
+            "maxTokens": 1280,
+            "tokenBuffer": 1280,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true
+        }
     }
 ]
+
