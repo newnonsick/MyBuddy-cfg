@@ -36,10 +36,10 @@
         }
     },
     {
-        "id": "Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280",
-        "fileName": "Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280.task",
-        "downloadUrl": "https://huggingface.co/litert-community/Qwen2.5-0.5B-Instruct/resolve/main/Qwen2.5-0.5B-Instruct_multi-prefill-seq_q8_ekv1280.task?download=true",
-        "approximateSize": "0.5 GB",
+        "id": "Qwen3-0.6B",
+        "fileName": "Qwen3-0.6B.litertlm",
+        "downloadUrl": "https://huggingface.co/litert-community/Qwen3-0.6B/resolve/main/Qwen3-0.6B.litertlm?download=true",
+        "approximateSize": "0.6 GB",
         "expectedMinBytes": 500000000,
         "config": {
             "type": "qwen",
@@ -50,9 +50,10 @@
             "topK": 1,
             "topP": null,
             "isThinking": false,
-            "supportsFunctionCalls": false
+            "supportsFunctionCalls": true
         }
     }
 ]
+
 
 
