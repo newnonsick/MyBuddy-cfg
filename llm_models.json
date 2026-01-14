@@ -14,7 +14,8 @@
             "topK": 1,
             "topP": null,
             "isThinking": false,
-            "supportsFunctionCalls": true
+            "supportsFunctionCalls": true,
+            "fileType": "task"
         }
     },
     {
@@ -32,7 +33,8 @@
             "topK": 1,
             "topP": null,
             "isThinking": false,
-            "supportsFunctionCalls": true
+            "supportsFunctionCalls": true,
+            "fileType": "task"
         }
     },
     {
@@ -50,10 +52,8 @@
             "topK": 1,
             "topP": null,
             "isThinking": false,
-            "supportsFunctionCalls": true
+            "supportsFunctionCalls": true,
+            "fileType": "task"
         }
     }
 ]
-
-
-
