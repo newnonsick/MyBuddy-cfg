@@ -55,5 +55,25 @@
             "supportsFunctionCalls": true,
             "fileType": "task"
         }
+    },
+    {
+        "id": "Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096",
+        "fileName": "Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.task",
+        "downloadUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "approximateSize": "4.0 GB",
+        "expectedMinBytes": 3500000000,
+        "config": {
+            "type": "general",
+            "maxTokens": 4096,
+            "tokenBuffer": 3584,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
     }
 ]
+
