@@ -58,8 +58,8 @@
     },
     {
         "id": "Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096",
-        "fileName": "Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.task",
-        "downloadUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "fileName": "Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.litertlm",
+        "downloadUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.litertlm?download=true",
         "approximateSize": "4.0 GB",
         "expectedMinBytes": 3500000000,
         "config": {
