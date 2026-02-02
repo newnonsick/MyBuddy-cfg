@@ -46,7 +46,26 @@
         "config": {
             "type": "qwen",
             "maxTokens": 1280,
-            "tokenBuffer": 1000,
+            "tokenBuffer": 1280,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+        {
+        "id": "Gemma3-4b-it-int4-web.task",
+        "fileName": "Gemma3-4b-it-int4-web.task",
+        "downloadUrl": "https://drive.google.com/uc?export=download&id=1tJpeCXTKdjO1dsNKEk6zYJOrfRf7EFJm",
+        "approximateSize": "2.5 GB",
+        "expectedMinBytes": 200000000,
+        "config": {
+            "type": "gemmait",
+            "maxTokens": 1280,
+            "tokenBuffer": 1280,
             "randomSeed": 1,
             "temperature": 0.8,
             "topK": 1,
@@ -76,4 +95,5 @@
         }
     }
 ]
+
 
