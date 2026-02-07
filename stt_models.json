@@ -1,6 +1,6 @@
 [
   {
-    "id": "whisper-base-q5_1",
+    "id": "whisper-tiny-q8_0",
     "fileName": "ggml-tiny-q8_0.bin",
     "downloadUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q8_0.bin?download=true",
     "approximateSize": "0.05 GB",
