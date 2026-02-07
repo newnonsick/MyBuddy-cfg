@@ -18,7 +18,7 @@
       }
     },
     "display": {
-      "name": "Whisper Tiny Q8_0",
+      "name": "Whisper Tiny",
       "description": "A balance between speed and accuracy, ideal for general use."
     }
   },
