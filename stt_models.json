@@ -1,5 +1,28 @@
 [
   {
+    "id": "whisper-tiny",
+    "fileName": "ggml-tiny.bin",
+    "downloadUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin?download=true",
+    "approximateSize": "0.08 GB",
+    "expectedMinBytes": 60000000,
+    "modelType": "whisper",
+    "config": {
+      "variant": "tiny",
+      "quantization": null,
+      "coreML": {
+        "downloadUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-encoder.mlmodelc.zip?download=true",
+        "archiveFileName": "ggml-tiny-encoder.mlmodelc.zip",
+        "extractedFolderName": "ggml-tiny-encoder.mlmodelc",
+        "approximateSize": "0.02 GB",
+        "expectedMinBytes": 10000000
+      }
+    },
+    "display": {
+      "name": "Whisper Tiny Q8_0",
+      "description": "A balance between speed and accuracy, ideal for general use."
+    }
+  },
+  {
     "id": "whisper-tiny-q8_0",
     "fileName": "ggml-tiny-q8_0.bin",
     "downloadUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny-q8_0.bin?download=true",
