@@ -57,6 +57,25 @@
         }
     },
     {
+        "id": "qwen3_thinking_4b_q4_block128_ekv2048",
+        "fileName": "qwen3_thinking_4b_q4_block128_ekv2048.task",
+        "downloadUrl": "https://huggingface.co/harithoppil/qwen3-4b-thinking-litert/resolve/main/qwen3_thinking_4b_q4_block128_ekv2048.task?download=true",
+        "approximateSize": "2.2 GB",
+        "expectedMinBytes": 2000000000,
+        "config": {
+            "type": "qwen",
+            "maxTokens": 2048,
+            "tokenBuffer": 2048,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+    {
         "id": "Gemma3-4b-it-int4-web.task",
         "fileName": "Gemma3-4b-it-int4-web.task",
         "downloadUrl": "https://drive.usercontent.google.com/uc?export=download&id=1tJpeCXTKdjO1dsNKEk6zYJOrfRf7EFJm",
@@ -114,6 +133,7 @@
         }
     }
 ]
+
 
 
 
