@@ -67,5 +67,28 @@
       "name": "Whisper Base Q5_1",
       "description": "A balance between speed and accuracy, ideal for general use."
     }
+  },
+  {
+    "id": "whisper-small-q5_1",
+    "fileName": "ggml-small-q5_1.bin",
+    "downloadUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small-q5_1.bin?download=true",
+    "approximateSize": "0.2 GB",
+    "expectedMinBytes": 150000000,
+    "modelType": "whisper",
+    "config": {
+      "variant": "small",
+      "quantization": "q5_1",
+      "coreML": {
+        "downloadUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small-encoder.mlmodelc.zip?download=true",
+        "archiveFileName": ggml-small-encoder.mlmodelc.zip",
+        "extractedFolderName": "ggml-small-encoder.mlmodelc",
+        "approximateSize": "0.2 GB",
+        "expectedMinBytes": 100000000
+      }
+    },
+    "display": {
+      "name": "Whisper Small Q5_1",
+      "description": "A balance between speed and accuracy, ideal for general use."
+    }
   }
 ]
