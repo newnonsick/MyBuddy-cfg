@@ -80,7 +80,7 @@
       "quantization": "q5_1",
       "coreML": {
         "downloadUrl": "https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small-encoder.mlmodelc.zip?download=true",
-        "archiveFileName": ggml-small-encoder.mlmodelc.zip",
+        "archiveFileName": "ggml-small-encoder.mlmodelc.zip",
         "extractedFolderName": "ggml-small-encoder.mlmodelc",
         "approximateSize": "0.2 GB",
         "expectedMinBytes": 100000000
