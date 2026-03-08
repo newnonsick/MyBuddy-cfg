@@ -1,0 +1,139 @@
+[
+    {
+        "id": "Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096",
+        "fileName": "Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096.task",
+        "downloadUrl": "https://huggingface.co/litert-community/Qwen2.5-1.5B-Instruct/resolve/main/Qwen2.5-1.5B-Instruct_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "approximateSize": "1.5 GB",
+        "expectedMinBytes": 1000000000,
+        "config": {
+            "type": "qwen",
+            "maxTokens": 4096,
+            "tokenBuffer": 3584,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+    {
+        "id": "DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096",
+        "fileName": "DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096.task",
+        "downloadUrl": "https://huggingface.co/litert-community/DeepSeek-R1-Distill-Qwen-1.5B/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B_multi-prefill-seq_q8_ekv4096.task?download=true",
+        "approximateSize": "1.9 GB",
+        "expectedMinBytes": 1000000000,
+        "config": {
+            "type": "deepseek",
+            "maxTokens": 4096,
+            "tokenBuffer": 3584,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+    {
+        "id": "Qwen3-0.6B",
+        "fileName": "Qwen3-0.6B.litertlm",
+        "downloadUrl": "https://huggingface.co/litert-community/Qwen3-0.6B/resolve/main/Qwen3-0.6B.litertlm?download=true",
+        "approximateSize": "0.6 GB",
+        "expectedMinBytes": 500000000,
+        "config": {
+            "type": "qwen",
+            "maxTokens": 1280,
+            "tokenBuffer": 1280,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+    {
+        "id": "qwen3_thinking_4b_q4_block128_ekv2048",
+        "fileName": "qwen3_thinking_4b_q4_block128_ekv2048.task",
+        "downloadUrl": "https://huggingface.co/harithoppil/qwen3-4b-thinking-litert/resolve/main/qwen3_thinking_4b_q4_block128_ekv2048.task?download=true",
+        "approximateSize": "2.2 GB",
+        "expectedMinBytes": 2000000000,
+        "config": {
+            "type": "qwen",
+            "maxTokens": 2048,
+            "tokenBuffer": 2048,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+    {
+        "id": "Gemma3-4b-it-int4-web.task",
+        "fileName": "Gemma3-4b-it-int4-web.task",
+        "downloadUrl": "https://drive.usercontent.google.com/uc?export=download&id=1tJpeCXTKdjO1dsNKEk6zYJOrfRf7EFJm",
+        "approximateSize": "2.5 GB",
+        "expectedMinBytes": 200000000,
+        "config": {
+            "type": "gemmait",
+            "maxTokens": 1280,
+            "tokenBuffer": 1280,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+    {
+        "id": "Gemma3-1B-IT_multi-prefill-seq_q4_block32_ekv4096",
+        "fileName": "Gemma3-1B-IT_multi-prefill-seq_q4_block32_ekv4096.task",
+        "downloadUrl": "https://drive.usercontent.google.com/uc?export=download&id=1oVT2YTsWwQal_AGJ1E1CAG3b0jHcW79r",
+        "approximateSize": "0.7 GB",
+        "expectedMinBytes": 500000000,
+        "config": {
+            "type": "gemmait",
+            "maxTokens": 4096,
+            "tokenBuffer": 4096,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    },
+    {
+        "id": "Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096",
+        "fileName": "Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.litertlm",
+        "downloadUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/Phi-4-mini-instruct_multi-prefill-seq_q8_ekv4096.litertlm?download=true",
+        "approximateSize": "4.0 GB",
+        "expectedMinBytes": 3500000000,
+        "config": {
+            "type": "general",
+            "maxTokens": 4096,
+            "tokenBuffer": 3584,
+            "randomSeed": 1,
+            "temperature": 0.8,
+            "topK": 1,
+            "topP": null,
+            "isThinking": false,
+            "supportsFunctionCalls": true,
+            "fileType": "task"
+        }
+    }
+]
+
+
+
+
